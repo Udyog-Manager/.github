@@ -1,0 +1,27 @@
+# Local operating-system files
+.DS_Store
+**/.DS_Store
+
+# Temporary rendering output and browser profiles
+/tmp/
+
+# Provider-specific local deployment metadata
+**/.openai/
+
+# Redundant deployment archives; final PDFs and website ZIP remain included
+/udyog-manager-site.tar.gz
+/udyog-manager-resources.tar.gz
+
+# Credentials and local development dependencies
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Nested Git metadata must never be included in an upload snapshot
+**/.git/
