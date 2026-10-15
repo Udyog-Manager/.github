@@ -9,6 +9,7 @@ Billing, customer records and business management for merchants, with planned we
 ## Product materials
 
 - [Complete product and development specification](../Udyog-Manager-Product-and-Development-Specification.md)
+- [Architecture flow](../Udyog-Manager-Architecture-Flow.md)
 - [Complete product report PDF](../output/pdf/Udyog-Manager-Complete-Report.pdf)
 - [25 slide presentation PDF](../output/pdf/Udyog-Manager-Complete-Presentation.pdf)
 - [Browser presentation](../output/pdf/Udyog-Manager-Complete-Presentation.html)
