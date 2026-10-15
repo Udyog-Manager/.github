@@ -15,8 +15,6 @@ Billing, customer records and business management for merchants, with planned we
 - [Product idea document](launch-kit/Udyog-Manager-Idea.html)
 - [Brand guide](launch-kit/Brand-Guide.md)
 - [Product icon](launch-kit/dist/assets/icon.svg)
-- [Product icon — JPG](assets/udyog-manager-icon.jpg)
-- [Product icon — GIF](assets/udyog-manager-icon.gif)
 
 Download HTML files and open them locally to view them as webpages; repository file previews show their source.
 
